@@ -19,6 +19,8 @@ const GlobalStyle = createGlobalStyle`
     /* Font varient */
     -webkit-font-variant-ligatures: none;
     font-variant-ligatures: none;
+
+    background-color: #edeeef;
   }
 
   body.font-loaded {
